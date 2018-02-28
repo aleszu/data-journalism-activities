@@ -26,8 +26,9 @@
 
 -Assemble all the data from every CSV into one master spreadsheet and add columns for President and Date
 
+-Data should look like this:
 
-| word | frequency | President | Date |
+**| word | frequency | President | Date |**
 
 | must | 28 | Bush Sr. | 1992 |
 
@@ -56,9 +57,28 @@
 
 -Filter to select your words, for example: "terror," "children," "american" and "jobs" 
 
--Paste them into one table, see right
+-Paste them into one table
 
--Condense words to their roots in a new table, see far right
+-Condense words to their roots in a new table
+
+
+**| word | frequency | President | Date |**
+| terror | 4 | Clinton | 2000 |
+| terror | 20 | Bush | 2008 |
+| terror | 3 | Bush | 2008 |
+| terror | 7 | Obama | 2016 |
+| children | 18 | Bush Sr. | 1992 |
+| children | 79 | Clinton | 2000 |
+| children | 9 | Bush | 2008 |
+| children | 1 | Obama | 2016 |
+| american | 23 | Bush Sr. | 1992 |
+| american | 48 | Clinton | 2000 |
+| american | 31 | Bush | 2008 |
+| american | 37 | Obama | 2016 |
+| job | 11 | Bush Sr. | 1992 |
+| job | 10 | Clinton | 2000 |
+| job | 6 | Bush | 2008 |
+| job | 20 | Obama | 2016 |
 
 
 #### Visualize the data 
