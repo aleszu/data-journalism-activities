@@ -1,0 +1,19 @@
+|          |           |           |      | 
+|----------|-----------|-----------|------| 
+| word     | frequency | President | Date | 
+| terror   | 4         | Clinton   | 2000 | 
+| terror   | 20        | Bush      | 2008 | 
+| terror   | 3         | Bush      | 2008 | 
+| terror   | 7         | Obama     | 2016 | 
+| children | 18        | Bush Sr.  | 1992 | 
+| children | 79        | Clinton   | 2000 | 
+| children | 9         | Bush      | 2008 | 
+| children | 1         | Obama     | 2016 | 
+| american | 23        | Bush Sr.  | 1992 | 
+| american | 48        | Clinton   | 2000 | 
+| american | 31        | Bush      | 2008 | 
+| american | 37        | Obama     | 2016 | 
+| job      | 11        | Bush Sr.  | 1992 | 
+| job      | 10        | Clinton   | 2000 | 
+| job      | 6         | Bush      | 2008 | 
+| job      | 20        | Obama     | 2016 | 
