@@ -17,17 +17,26 @@
 -Scroll down to the "What do I do next" section and click "Word counts" where it says "Download all the word counts"
 -Do the same for the rest of the SOTU transcripts 
 -Assemble all the data from every CSV into one master spreadsheet and add columns for President and Date
-
 | word | frequency | President | Date |
+
 | must | 28 | Bush Sr. | 1992 |
+
 | people | 26 | Bush Sr. | 1992 |
+
 | know | 24 | Bush Sr. | 1992 |
+
 | plan | 23 | Bush Sr. | 1992 |
+
 | world | 22 | Bush Sr. | 1992 |
+
 | right | 19 | Bush Sr. | 1992 |
+
 | help | 18 | Bush Sr. | 1992 |
+
 | american | 18 | Bush Sr. | 1992 |
+
 | new | 17 | Bush Sr. | 1992 |
+
 | it's | 16 | Bush Sr. | 1992 |
 
 #### Explore and clean the data
