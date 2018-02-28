@@ -37,6 +37,8 @@
 
 -Condense words to their roots in a new table
 
+
+|          |           |           |      | 
 |----------|-----------|-----------|------| 
 | word     | frequency | President | Date | 
 | terror   | 4         | Clinton   | 2000 | 
@@ -55,7 +57,6 @@
 | job      | 10        | Clinton   | 2000 | 
 | job      | 6         | Bush      | 2008 | 
 | job      | 20        | Obama     | 2016 | 
-
 
 
 #### Visualize the data 
