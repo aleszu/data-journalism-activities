@@ -37,8 +37,6 @@
 
 -Condense words to their roots in a new table
 
-
-|          |           |           |      | 
 |----------|-----------|-----------|------| 
 | word     | frequency | President | Date | 
 | terror   | 4         | Clinton   | 2000 | 
