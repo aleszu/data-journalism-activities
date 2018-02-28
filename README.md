@@ -28,27 +28,17 @@
 
 -Data should look like this:
 
-**| word | frequency | President | Date |**
-
-| must | 28 | Bush Sr. | 1992 |
-
-| people | 26 | Bush Sr. | 1992 |
-
-| know | 24 | Bush Sr. | 1992 |
-
-| plan | 23 | Bush Sr. | 1992 |
-
-| world | 22 | Bush Sr. | 1992 |
-
-| right | 19 | Bush Sr. | 1992 |
-
-| help | 18 | Bush Sr. | 1992 |
-
-| american | 18 | Bush Sr. | 1992 |
-
-| new | 17 | Bush Sr. | 1992 |
-
-| it's | 16 | Bush Sr. | 1992 |
+**| word | frequency | President | Date |**  
+| must | 28 | Bush Sr. | 1992 |  
+| people | 26 | Bush Sr. | 1992 |  
+| know | 24 | Bush Sr. | 1992 |  
+| plan | 23 | Bush Sr. | 1992 |  
+| world | 22 | Bush Sr. | 1992 |  
+| right | 19 | Bush Sr. | 1992 |  
+| help | 18 | Bush Sr. | 1992 |  
+| american | 18 | Bush Sr. | 1992 |  
+| new | 17 | Bush Sr. | 1992 |  
+| it's | 16 | Bush Sr. | 1992 |  
 
 
 #### Explore and clean the data
@@ -62,23 +52,23 @@
 -Condense words to their roots in a new table
 
 
-**| word | frequency | President | Date |**
-| terror | 4 | Clinton | 2000 |
-| terror | 20 | Bush | 2008 |
-| terror | 3 | Bush | 2008 |
-| terror | 7 | Obama | 2016 |
-| children | 18 | Bush Sr. | 1992 |
-| children | 79 | Clinton | 2000 |
-| children | 9 | Bush | 2008 |
-| children | 1 | Obama | 2016 |
-| american | 23 | Bush Sr. | 1992 |
-| american | 48 | Clinton | 2000 |
-| american | 31 | Bush | 2008 |
-| american | 37 | Obama | 2016 |
-| job | 11 | Bush Sr. | 1992 |
-| job | 10 | Clinton | 2000 |
-| job | 6 | Bush | 2008 |
-| job | 20 | Obama | 2016 |
+**| word | frequency | President | Date |**  
+| terror | 4 | Clinton | 2000 |  
+| terror | 20 | Bush | 2008 |  
+| terror | 3 | Bush | 2008 |  
+| terror | 7 | Obama | 2016 |  
+| children | 18 | Bush Sr. | 1992 |  
+| children | 79 | Clinton | 2000 |  
+| children | 9 | Bush | 2008 |  
+| children | 1 | Obama | 2016 |  
+| american | 23 | Bush Sr. | 1992 |  
+| american | 48 | Clinton | 2000 |  
+| american | 31 | Bush | 2008 |  
+| american | 37 | Obama | 2016 |  
+| job | 11 | Bush Sr. | 1992 |  
+| job | 10 | Clinton | 2000 |  
+| job | 6 | Bush | 2008 |  
+| job | 20 | Obama | 2016 |  
 
 
 #### Visualize the data 
