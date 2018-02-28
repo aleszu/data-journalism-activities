@@ -82,5 +82,6 @@
 -Under "Map your dimensions," drag and drop "word" into Group, "date" into Date, and "frequency" into Size
 
 
+![img1](https://drive.google.com/file/d/1BVvlY_UC1zH8AN6rukkM5zTpOqK8CfKk/view)
 
 
